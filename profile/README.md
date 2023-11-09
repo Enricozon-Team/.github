@@ -2,7 +2,7 @@
 Questo è l'unico luogo in cui si puo trovare il miglior mercato per una vasta quantità di prodotti.
 
 ### Created by:
-enriccio104, cranci, Tanoshi & Cholito
+enriccio104, cranci, Tanoshi, Cholito & Costa
 
 
 ### Stats 📊
