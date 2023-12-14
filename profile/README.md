@@ -3,7 +3,3 @@ Questo è l'unico luogo in cui si puo trovare il miglior mercato per una vasta q
 
 ### Created by:
 enriccio104, cranci, Tanoshi, Cholito & Costa
-
-
-### Stats 📊
-![Alt](https://repobeats.axiom.co/api/embed/78892e0042fddab2c430f40170a21eaad7f699fc.svg "Repobeats analytics image")
